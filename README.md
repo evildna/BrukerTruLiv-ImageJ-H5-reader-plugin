@@ -156,5 +156,5 @@ installations.
 
 ## License
 
-MIT — see [`LICENSE`] (Xian Hu, University of Oslo.)
+MIT — see [`LICENSE`](LICENSE). © 2026 Xian Hu, University of Oslo.
 
